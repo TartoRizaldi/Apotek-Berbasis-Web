@@ -1,0 +1,87 @@
+div .logo{
+	width: 38%;
+	height: 290%;
+	background-image: url('../img/lambang.png');
+	background-size: 70%;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.samping{
+	background-color: #306754;
+}
+
+.div1{
+	width: 100%;
+	text-align: center;
+	font-size: 100%;
+}
+
+.div2{
+	width: 100%;
+	text-align: justify;
+	font-size: 100%;
+}
+
+.div3{
+	width: 100%;
+	height: 40px;
+	text-align: center;
+	font-size: 100%;
+}
+
+.div4{
+	width: 96%;
+	text-align: center;
+	font-size: 100%;
+}
+
+.space_d{
+	height: 70px;
+}
+
+.input{
+	margin-left: -2%;
+	width: 104%;
+}
+
+.input_down{
+	height: 38px;
+	margin-left: -2%;
+	width: 104%;
+}
+
+.submit{
+	margin-left: -2%;
+}
+
+div .men{
+	margin-left: -40%;
+}
+
+.ket{
+	margin-left: 30%;
+}
+
+.big:hover{
+	background-color: #f3f3f3;
+}
+
+.label{
+	margin-left: 2%;
+}
+
+.conf{
+	background-color: transparent;
+	color: Black;
+	border: none;
+	margin-left: 3.5%;
+	margin-top: -7%;
+	font-size: 110%;
+	text-align: left;
+	font-weight: bold;
+}
+
+.garis{
+	width: 93%;
+}
